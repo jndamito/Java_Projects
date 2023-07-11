@@ -17,7 +17,6 @@
 				<executions>
 					<execution>
 						<phase>package</phase>
-						<phase>sonar:sonar</phase>
 						<goals>
 							<goal>copy</goal>
 						</goals>
