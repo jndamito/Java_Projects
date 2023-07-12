@@ -83,4 +83,19 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
+
+	<distributionManagement>
+	    <repository>
+	      <id>nexus</id>
+	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <url>http://3.85.87.142:8081/jnconsulting/repository/onlinebook/</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Landmark Technologies Snapshot Nexus Repository</name>
+	      <url>http://3.85.87.142:8081/jnconsulting/repository/onlinebooksnap/</url>
+	    </snapshotRepository>
+	    
+	</distributionManagement>
 </project>
