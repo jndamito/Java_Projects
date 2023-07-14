@@ -88,13 +88,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.85.87.142:8081/jnconsulting/repository/onlinebook/</url>
+	      <url>http://50.19.21.254:8081/jnconsulting/repository/onlinebook/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://3.85.87.142:8081/jnconsulting/repository/onlinebooksnap/</url>
+	      <url>http://50.19.21.254:8081/jnconsulting/repository/onlinebooksnap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
